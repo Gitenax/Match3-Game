@@ -8,17 +8,24 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Editor" t="Include">
-          <e p="CustPropertyDrawer.cs" t="Include" />
+          <e p="Match3PropertyDrawer.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
-          <e p="ArrayLayout.cs" t="Include" />
-          <e p="FlippedPieces.cs" t="Include" />
-          <e p="KilledPiece.cs" t="Include" />
+          <e p="Grid" t="Include">
+            <e p="ArrayLayout.cs" t="Include" />
+            <e p="Point.cs" t="Include" />
+          </e>
           <e p="Match3.cs" t="Include" />
-          <e p="MovePieces.cs" t="Include" />
-          <e p="Node.cs" t="Include" />
-          <e p="NodePiece.cs" t="Include" />
-          <e p="Point.cs" t="Include" />
+          <e p="PieceMover.cs" t="Include" />
+          <e p="Pieces" t="Include">
+            <e p="FlippedPieces.cs" t="Include" />
+            <e p="GamePiece.cs" t="Include" />
+            <e p="KilledPiece.cs" t="Include" />
+            <e p="Node.cs" t="Include" />
+            <e p="NodePiece.cs" t="Include" />
+            <e p="PiecesData.cs" t="Include" />
+            <e p="PieceType.cs" t="Include" />
+          </e>
         </e>
       </e>
       <e p="Match3 Game.sln" t="IncludeFlat" />

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using Grid;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
@@ -57,13 +58,13 @@ public class NodePiece : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 
 	void UpdateName()
 	{
-		transform.name = $"Node [{Index.x}, {Index.y}]";
+		transform.name = $"Node [{Index.X}, {Index.Y}]";
 	}
 
 
 	public void ResetPosition()
 	{
-		Position = new Vector2(32 + (64 * Index.x), -32 - (64 * Index.y));
+		Position = new Vector2(32 + (64 * Index.X), -32 - (64 * Index.Y));
 	}
 
 
@@ -80,13 +81,13 @@ public class NodePiece : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 	public void OnPointerDown(PointerEventData eventData)
 	{
 		if(_updating) return;
-		MovePieces.Instance.MovePiece(this);
+		//PieceMover.Instance.MovePiece(this);
 		// Debug.Log($"Grab {transform.name}");
 	}
 
 	public void OnPointerUp(PointerEventData eventData)
 	{
-		MovePieces.Instance.DropPiece();
+		PieceMover.Instance.DropPiece();
 		// Debug.Log($"let go {transform.name}");
 	}
 }

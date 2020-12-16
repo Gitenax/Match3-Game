@@ -1,32 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="17ce0fd6-0693-4b1c-bad7-93277669a6e1" name="Default Changelist" comment="" />
+    <list default="true" id="17ce0fd6-0693-4b1c-bad7-93277669a6e1" name="Default Changelist" comment="Загрузка проекта">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Grid.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/GamePiece.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/GamePiece.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/PieceType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/PieceType.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Match3 Game/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Match3 Game/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Match3 Game/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Match3 Game/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/CustPropertyDrawer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Match3PropertyDrawer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Editor/CustPropertyDrawer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Editor/Match3PropertyDrawer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/NodePiece.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/NodePiece.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Board.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Board.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ArrayLayout.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grid/ArrayLayout.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ArrayLayout.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grid/ArrayLayout.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlippedPieces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/FlippedPieces.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FlippedPieces.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/FlippedPieces.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KilledPiece.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/KilledPiece.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/KilledPiece.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/KilledPiece.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Match3.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Match3.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePieces.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PieceMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MovePieces.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PieceMover.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Node.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/Node.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Node.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/Node.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NodePiece.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Pieces/NodePiece.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NodePiece.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grid/Point.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Point.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Grid/Point.cs.meta" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KilledPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/8c/933ee849/RuntimeType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pieces/KilledPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Pieces/PiecesData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FB001E01-371B-4ADC-A200-13E0AC763896/b9/e63003cc/Enum.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Point.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KilledPiece.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Diamond.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Pyramid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Cylinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Sphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Cube.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/EmptyHole.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/CustPropertyDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/ArrayLayout.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/Match3PropertyDrawer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/Point.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NodePiece.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovePieces.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/KilledPiece.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/PieceType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/GamePieceE.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/NodePiece.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/FlippedPieces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/PiecesData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PieceMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pieces/GamePiece.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Match3.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ko0rHLQCun7LRrXdGDgnsQ1RWc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3497758" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2998879" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -63,7 +135,18 @@
       <workItem from="1606351837717" duration="6998000" />
       <workItem from="1607114667805" duration="1268000" />
       <workItem from="1607253362162" duration="7604000" />
+      <workItem from="1607964287704" duration="10430000" />
+      <workItem from="1608045455339" duration="2710000" />
+      <workItem from="1608134444278" duration="547000" />
     </task>
+    <task id="LOCAL-00001" summary="Загрузка проекта">
+      <created>1607964581326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607964581326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,13 +154,131 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Загрузка проекта" />
+    <option name="LAST_COMMIT_MESSAGE" value="Загрузка проекта" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="404" height="464" key="DebuggerActiveHint" timestamp="1607979138142">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="404" height="464" key="DebuggerActiveHint/62.0.1858.1080@62.0.1858.1080" timestamp="1607979138142" />
+    <state width="1815" height="243" key="GridCell.Tab.0.bottom" timestamp="1607979442318">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.0.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442318" />
+    <state width="1815" height="243" key="GridCell.Tab.0.center" timestamp="1607979442318">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.0.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442318" />
+    <state width="1815" height="243" key="GridCell.Tab.0.left" timestamp="1607979442318">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.0.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442318" />
+    <state width="1815" height="243" key="GridCell.Tab.0.right" timestamp="1607979442318">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.0.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442318" />
+    <state width="1815" height="243" key="GridCell.Tab.1.bottom" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.1.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.1.center" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.1.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.1.left" timestamp="1607979442318">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.1.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442318" />
+    <state width="1815" height="243" key="GridCell.Tab.1.right" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.1.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.2.bottom" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.2.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.2.center" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.2.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.2.left" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.2.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.2.right" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.2.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.3.bottom" timestamp="1607979442320">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.3.bottom/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442320" />
+    <state width="1815" height="243" key="GridCell.Tab.3.center" timestamp="1607979442320">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.3.center/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442320" />
+    <state width="1815" height="243" key="GridCell.Tab.3.left" timestamp="1607979442319">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.3.left/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442319" />
+    <state width="1815" height="243" key="GridCell.Tab.3.right" timestamp="1607979442320">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="243" key="GridCell.Tab.3.right/62.0.1858.1080@62.0.1858.1080" timestamp="1607979442320" />
+    <state x="793" y="241" key="RiderGenerateDialog" timestamp="1607965825837">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="793" y="241" key="RiderGenerateDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1607965825837" />
+    <state x="743" y="250" key="RollbackChangesDialog" timestamp="1607975475505">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="743" y="250" key="RollbackChangesDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1607975475505" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1606353187970">
       <screen x="62" y="0" width="1858" height="1080" />
     </state>
     <state width="498" height="446" key="SwitcherDM/62.0.1858.1080@62.0.1858.1080" timestamp="1606353187970" />
+    <state x="154" y="92" width="1674" height="896" key="VCS.FileHistoryDialog" timestamp="1607976864187">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="154" y="92" width="1674" height="896" key="VCS.FileHistoryDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1607976864187" />
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2" timestamp="1607964628191">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="583" y="272" key="Vcs.Push.Dialog.v2/62.0.1858.1080@62.0.1858.1080" timestamp="1607964628191" />
+    <state x="859" y="274" width="746" height="531" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1607964493803">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="859" y="274" width="746" height="531" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1607964493803" />
+    <state x="808" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607964480523">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="808" y="453" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.1858.1080@62.0.1858.1080" timestamp="1607964480523" />
   </component>
 </project>

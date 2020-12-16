@@ -1,20 +1,21 @@
 ﻿using UnityEngine;
 using UnityEditor;
 using System.Collections;
+using Grid;
 
 [CustomPropertyDrawer(typeof(ArrayLayout))]
-public class CustPropertyDrawer : PropertyDrawer {
+public class Match3PropertyDrawer : PropertyDrawer {
 
 	public override void OnGUI(Rect position,SerializedProperty property,GUIContent label){
 		EditorGUI.PrefixLabel(position, label);
 		Rect newposition = position;
 		newposition.y += 18f;
-		SerializedProperty data = property.FindPropertyRelative("rows");
+		SerializedProperty data = property.FindPropertyRelative("_rows");
 				if (data.arraySize != 14)
 						data.arraySize = 14;
 		//data.rows[0][]
 		for(int j=0;j<14;j++){
-			SerializedProperty row = data.GetArrayElementAtIndex(j).FindPropertyRelative("row");
+			SerializedProperty row = data.GetArrayElementAtIndex(j).FindPropertyRelative("_column");
 			newposition.height = 18f;
 			if(row.arraySize != 9)
 				row.arraySize = 9;
@@ -29,7 +30,7 @@ public class CustPropertyDrawer : PropertyDrawer {
 		}
 	}
 
-	public override float GetPropertyHeight(SerializedProperty property,GUIContent label){
+	public override float GetPropertyHeight(SerializedProperty property, GUIContent label){
 		return 18f * 15;
 	}
 }
